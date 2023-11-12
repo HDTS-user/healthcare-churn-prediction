@@ -1,0 +1,23 @@
+{
+    "memid":"AMXM00000058355",
+    "fullname":"FLINTSTONE_L, FRED",
+    "gender":"F",
+    "issubnscriber":"yes",
+    "isactive":"yes",
+    "dependents":2,
+    "Age":43,
+    "isvip":0,
+    "language":"Spanish",
+    "maritalstatus":"yes",
+    "yearsenrolled":4,
+    "is_ppo":"yes",
+    "is_hmo":"no",
+    "is_renewal":"yes",
+    "is_autorenewal":"no",
+    "aptc":0,
+    "csr":0,
+    "prevnetpremium":1234.55,
+    "avgnetpremium":1234.89,
+    "claimsdenied":2,
+    "grievances":1
+}
